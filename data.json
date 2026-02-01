@@ -1,0 +1,19 @@
+{
+  "MCMC1_nwalkers": 64,
+  "MCMC1_run_times": 1000,
+  "MCMC2_nwalkers": 32,
+  "MCMC2_run_times": 1000,
+  "q": [0, 1],
+  "t1": [4000, 10000],
+  "incl": [40, 90],
+  "t2_t1": [0.7, 1.2],
+  "f": [0.05, 1],
+  "colat": [0, 180],
+  "long": [0, 360],
+  "radius": [0, 60],
+  "relteff": [0.6, 1],
+  "l3": [0, 0.6],
+  "sma": [0.1, 10],
+  "vgamma": [100, 300],
+  "phase_shift": false
+}
